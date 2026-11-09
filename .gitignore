@@ -1,0 +1,8 @@
+# data and model files are not tracked
+data/
+*.pth
+*.pt
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
