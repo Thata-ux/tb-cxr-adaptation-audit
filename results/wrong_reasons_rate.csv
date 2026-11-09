@@ -1,0 +1,13 @@
+direction,method,0
+MC->SZ,adabn,0.025
+MC->SZ,fewshot_k10,0.05
+MC->SZ,fewshot_k20,0.05
+MC->SZ,fewshot_k5,0.05
+MC->SZ,shot,0.225
+MC->SZ,tent,0.0
+SZ->MC,adabn,0.325
+SZ->MC,fewshot_k10,0.15
+SZ->MC,fewshot_k20,0.25
+SZ->MC,fewshot_k5,0.3
+SZ->MC,shot,0.125
+SZ->MC,tent,0.25

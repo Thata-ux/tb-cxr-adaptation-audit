@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite it as below."
+title: "Higher AUC, Wrong Reasons? Lung-Masked Auditing of Tuberculosis Domain Adaptation"
+authors:
+  - family-names: Andika
+    given-names: Tahta Herdian
+    orcid: "https://orcid.org/0000-0001-7009-6114"
+    affiliation: "Department of Informatics Engineering, Aisyah University, Pringsewu, Lampung, Indonesia"
+license: MIT
+repository-code: "https://github.com/Thata-ux/tb-cxr-adaptation-audit"
+date-released: 2026-11-09
+keywords:
+  - tuberculosis
+  - chest X-ray
+  - domain adaptation
+  - test-time adaptation
+  - Grad-CAM
